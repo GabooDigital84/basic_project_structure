@@ -1,1 +1,1 @@
-#Basic project structure setup with SCSS architecture
+# Basic project structure setup with SCSS architecture
